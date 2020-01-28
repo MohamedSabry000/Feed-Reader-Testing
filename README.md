@@ -1,4 +1,4 @@
-# Feed Reader 
+# Feed Reader Testing Udacity Project
 
 it's a web-based application that reads RSS feeds. we saw the value in testing of this application clearly , we've already included [Jasmine](http://jasmine.github.io/) and even started writing our first test suite1
 
